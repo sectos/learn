@@ -19,7 +19,10 @@
           "apps/recipe-book/src/favicon.ico",
           "apps/recipe-book/src/assets"
         ],
-        "styles": ["apps/recipe-book/src/styles.scss"],
+        "styles": [
+          "node_modules/bootstrap/dist/css/bootstrap.min.css",
+          "apps/recipe-book/src/styles.scss"
+        ],
         "scripts": []
       },
       "configurations": {
