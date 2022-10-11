@@ -61,7 +61,9 @@
     },
     "@nrwl/angular:library": {
       "linter": "eslint",
-      "unitTestRunner": "jest"
+      "unitTestRunner": "jest",
+      "style": "scss",
+      "buildable": true
     },
     "@nrwl/angular:component": {
       "style": "scss"
