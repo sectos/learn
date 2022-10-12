@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@learn/server": ["libs/server/src/index.ts"]
+      "@learn/server": ["libs/server/src/index.ts"],
+      "@learn/servers": ["libs/servers/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
